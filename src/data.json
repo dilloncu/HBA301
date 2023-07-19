@@ -1,0 +1,50 @@
+[
+  {
+    "_id": 1,
+    "image_url": "https://modernfarmer.com/wp-content/uploads/2014/08/markhor.jpg",
+    "title": "Markhor",
+    "description": "Lives in the mountains of central Asia, adeptly climbing craggy rocks with the grace of North America’s own mountain goat.",
+    "keyword": "Markhor",
+    "horns": 2
+  },
+  {
+    "_id": 2,
+    "image_url": "https://modernfarmer.com/wp-content/uploads/2014/08/saiga.jpg",
+    "title": "Saiga",
+    "description": "Native to the dusty steppes of Kazakhstan, Russia, and sometimes Uzbekistan during migrations, the saiga is a truly absurd-looking and delightful antelope.",
+    "keyword": "Saiga",
+    "horns": 2
+  },
+  {
+    "_id": 3,
+    "image_url": "https://modernfarmer.com/wp-content/uploads/2014/08/nubianibex.jpg",
+    "title": "Nubian Ibex",
+    "description": "The Nubian ibex’s gigantic, backward-curling horns are even more impressive when you consider that the ibex uses them to smash into male competitors while on top of scary mountains in North Africa and Arabia. ",
+    "keyword": "Nubian Ibex",
+    "horns": 2
+  },
+  {
+    "_id": 4,
+    "image_url": "https://modernfarmer.com/wp-content/uploads/2014/08/bharal.jpg",
+    "title": "Bharal",
+    "description": "According to reputable sources, the bharal is also known as the Himalayan blue sheep due to a bluish tint to its fur. ",
+    "keyword": "Bharal",
+    "horns": 2
+  },
+  {
+    "_id": 5,
+    "image_url": "https://modernfarmer.com/wp-content/uploads/2014/08/addax.jpg",
+    "title": "Addax",
+    "description": "The addax is also known as the screwhorn antelope, which is a perfect name.",
+    "keyword": "Addax",
+    "horns": 2
+  },
+  {
+    "_id": 6,
+    "image_url": "https://modernfarmer.com/wp-content/uploads/2014/08/28476658_9c97f35096_o.jpg",
+    "title": "Mouflon",
+    "description": "The mouflon is thought to be the ancestor of our modern, very familiar domestic sheep.",
+    "keyword": "Mouflon",
+    "horns": 2
+  }
+]
