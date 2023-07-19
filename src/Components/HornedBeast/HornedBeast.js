@@ -1,7 +1,7 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import "./HornedBeast.css";
 
-export default function HornedBeast({ title, imgUrl, description }) {
+export default function HornedBeast({ title, imgUrl, description, handleModal, beastObject }) {
   const [favs, setFavs] = useState(0);
 
   function handleFavs() {
@@ -12,7 +12,7 @@ export default function HornedBeast({ title, imgUrl, description }) {
     <div className="hornedbeastsec">
       <h1>{title}</h1>
       <p>{description}</p>
-      <img className="img" src={imgUrl} alt={description} />
+      <img className="img" src={imgUrl} alt={description} onClick={() => handleModal(beastObject)} />
       <h2>
         <span className="touch" onClick={handleFavs}>
           Select
